@@ -1,0 +1,187 @@
+newmtl HousesTxt_tallSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Houses03.jpg
+bump Houses03.bump.jpg -bm 0.1
+Ni 1.00
+Ks 0.16 0.16 0.16
+newmtl Houses_roofSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Houses01.fix.sat.jpg
+bump Houses01.fix.sat.jpg -bm 0.3
+Ni 1.00
+Ks 0.24 0.24 0.24
+newmtl Photoreal_grass2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.40 0.40 0.40
+newmtl blinn33SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ground.lesssat.7.jpg
+bump Ground.Bump.jpg -bm 0.05
+Ni 1.00
+Ks 0.24 0.24 0.24
+newmtl blinn33SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ground.lesssat.7.jpg
+bump Ground.Bump.jpg -bm 0.05
+Ni 1.00
+Ks 0.20 0.20 0.20
+newmtl blinn34SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ironage.diffuse2.diffuse2.tga
+bump ironage.diffuse2.diffuse.d.tga -bm 0.06
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks -mm 0 0.66142 ironage.diffuse2.diffuse.d.tga
+newmtl blinn42SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd -s 0.0833333 0.0416667 BrickOldRounded0083.9.L2.jpg
+bump -s 0.0833333 0.0416667 BrickOldRounded0028.3.d.jpg -bm 0.012
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks -s 0.0833333 0.0416667 -mm 0 0.64566 BrickOldRounded0028.3.d.jpg
+newmtl dwarf_wallSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Houses01.fix.sat.jpg
+bump Houses01.fix.sat.jpg -bm 0.35
+Ni 1.00
+Ks 0.16 0.16 0.16
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ground.lesssat.7.jpg
+bump -s 0.004 0.004 dirt1.diffuse.jpg -bm 0.02
+Ni 1.00
+Ks 0.20 0.20 0.20
+newmtl lambert8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd -s 0.333333 0.333333 -mm 0 0.815 Scrapyard0049.1.L.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks -s 0.333333 0.333333 Scrapyard0049.1.L.displc.jpg
+newmtl lambert15SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd -s 0.04 0.0333333 wall.lower.fix.sat.jpg
+bump -s 0.04 0.0333333 wall.lower.fix.sat.jpg -bm 0
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks -s 0.04 0.0333333 -mm 0 0.44094 wall.lower.ix.sat.b.jpg
+newmtl lambert16SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ground.lesssat.distant.jpg
+Ni 1.00
+newmtl lambert17SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl mounds_SMALLROCKSSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ground.lesssat.2.jpg
+bump Ground.Bump.jpg -bm 0.03
+Ni 1.00
+Ks 0.13 0.13 0.13
+newmtl nParticlePointsSE
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd -s 0.25 0.25 RockCoal2.jpg
+bump -s 0.25 0.25 RockCoal2.jpg -bm 0.06
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl tmp_HousesTxt02SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.12 0.10 0.10
+Tf 1.00 1.00 1.00
+map_Kd Houses02.fix.sat.jpg
+bump Houses01.fixBump2.jpg -bm 0.25
+Ni 1.00
+Ks 0.16 0.16 0.16
+newmtl tmp_HousesTxtSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.11 0.10 0.10
+Tf 1.00 1.00 1.00
+map_Kd Houses01.fix.sat.jpg
+bump Houses01.fixBump2.jpg -bm 0.25
+Ni 1.00
+Ks 0.16 0.16 0.16
+newmtl tmp_furnace_wire_087225143
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd furnace.diffuse.tga
+bump furnace.diffuse.tga -bm 1.1
+Ni 1.00
+Ks 0.20 0.20 0.20
+newmtl tmp_lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl tmp_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd -s 0.125 0.125 RockCoal.jpg
+bump -s 0.125 0.125 RockCoal.jpg -bm 0.18
+Ni 1.00
+Ks 0.20 0.20 0.20
